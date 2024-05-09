@@ -1,10 +1,3 @@
-import os
-import sys
-import json
-import time
-import requests
-import websocket
-from keep_alive import keep_alive
 
 status = "online" #online/dnd/idle
 
